@@ -1,7 +1,32 @@
+@font-face{
+	font-family: NewsGoth Bn BT;
+	src: url(../fonts/NewsGothBnBT.ttf);
+}
+
 #pantalla-inicio{
 	width: 900px;
 	height: 590px;
 	position: relative;
+}
+
+#hija{
+	width: 507px;
+	height: 559px;
+	margin-top: 50px;
+	position: relative;
+}
+
+#dialogo-1{
+	width: 234px;
+	height: 234px;
+	position: absolute;
+	left: 120px;
+}
+
+#dialogo-2{
+	width: 234px;
+	height: 234px;
+	margin-left: -120px;
 }
 
 #boton-juego{
