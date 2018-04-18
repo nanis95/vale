@@ -1,0 +1,13 @@
+#pantalla-inicio{
+	width: 900px;
+	height: 590px;
+	position: relative;
+}
+
+#boton-juego{
+	width: 300px;
+	height: 102px;
+	position: absolute;
+	top: 480px;
+	left: 325px;
+}
